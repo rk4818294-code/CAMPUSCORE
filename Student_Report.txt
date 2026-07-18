@@ -1,0 +1,11 @@
+========== CAMPUSCORE REPORT ==========
+
+Roll      : 12
+Name      : rohit
+Father    : jagmahinder
+Course    : Cyber Security
+Address   : sonipat
+Phone     : 1234567890
+Marks     : 89
+Grade     : B
+----------------------------------------
